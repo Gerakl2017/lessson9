@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(129, 58, 129);
+}
+.card{
+    margin: 15px;
+
+}
+.footer-img{
+    height: 40px;
+    width: 40px;
+}
+footer{
+    margin-bottom: 0px;
+}
+p{
+    margin: 0px;
+}
+.smallelement{
+    border: solid rgba(0, 0, 0, 0.76) 2px;
+    margin: 20px;
+}
+.Excalibur{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.smallimg{
+    height: 210px;
+    width: 246px;
+}
+.quote{
+    margin-top: 30px;
+    border: dotted rgba(0, 0, 0, 0.76) 2px;
+    padding: 15px;
+}
+.element{
+   background-color: blanchedalmond;
+}
